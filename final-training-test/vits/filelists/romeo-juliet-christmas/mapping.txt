@@ -1,0 +1,7 @@
+angry ----> 0
+Neutral ---> 1
+surprise ---> 2
+sad ---> 3
+joy ---> 4
+curious ---> 5
+disgust ---> 6
